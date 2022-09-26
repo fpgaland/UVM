@@ -1,0 +1,1 @@
+xcrg -report_format html -dir ./MC_MULT.sim/sim_1/behav/xsim/xsim.covdb
